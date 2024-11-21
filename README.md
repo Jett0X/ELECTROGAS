@@ -3,7 +3,7 @@
 <h2>
     GOALS
 </h2>
-<h4>
+<h4>    
    Researchers aim to create a sustainable system for producing gas using solar panel-powered electrolysis. To minimize the production of natural gas and produce an alternative gas through the process of electrolysis. By using gas produced by electrolysis, it helps decrease the need for natural gas by providing a renewable and cleaner alternative. The study not only conserves natural gas but also contributes to a more stable and sustainable energy supply.
 </h4>
 <h2>
