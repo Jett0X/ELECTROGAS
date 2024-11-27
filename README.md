@@ -12,3 +12,13 @@
 <h4>
     The study is expected to show that hydrogen gas can potentially and efficiently be produced by solar-powered electrolysis as a renewable substitute for natural gas. This would reduce our dependence on natural gas and minimize emissions of carbon dioxide (CO2), methane (CH4), and nitrous oxide (N2O) for the advantage of the environment. The system should also operate consistently and reliably over time. 
 </h4>
+
+## Author
+- [JETTX](https://github.com/Jett0X)
+
+## Account
+- [@JetLouise](https://www.facebook.com/myprivacy19)
+- [@rizzigale6@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+# LICENCE
+[MIT Licence](https://github.com/Jett0X/ELECTROGAS/blob/main/LICENSE)
